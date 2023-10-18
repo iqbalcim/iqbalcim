@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nashta-Net**
 
-- 🌱 I’m currently learning **NextJS TS**
+- 🌱 I’m currently learning **NextJS 13.5**
 
 - 👨‍💻 All of my projects are available at [-](-)
 
